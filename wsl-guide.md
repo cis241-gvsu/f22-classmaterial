@@ -12,4 +12,4 @@
 
 1. Open Up the Microsoft Store
 2. Search for Ubuntu
-3. Install (if there are multiple vesions choose 20.x instead of 18.x)
+3. Install (if there are multiple vesions choose 22.x instead of 20.x or 18.x)
