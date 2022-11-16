@@ -1,4 +1,4 @@
-## Minilab 17
+## Minilab 18
 
 This minilab will help you get experience using
 multidimensional arrays.
